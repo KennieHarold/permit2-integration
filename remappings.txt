@@ -1,8 +1,8 @@
-ds-test/=lib/permit2/lib/forge-std/lib/ds-test/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
 eth-gas-reporter/=node_modules/eth-gas-reporter/
 forge-gas-snapshot/=lib/permit2/lib/forge-gas-snapshot/src/
 forge-std/=lib/forge-std/src/
 hardhat/=node_modules/hardhat/
 openzeppelin-contracts/=lib/permit2/lib/openzeppelin-contracts/
 permit2/=lib/permit2/
-solmate/=lib/permit2/lib/solmate/src/
+solmate/=lib/permit2/lib/solmate/
